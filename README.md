@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>Layout</summary>
+  |Dir|Info|
+  |--:|----|
+  |PwrShll|PowerShell Scripts|
+  |VBS| VBS Scripts|
+</details>
